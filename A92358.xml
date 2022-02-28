@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the actions of the Parliaments forces, under the command of the Earl of Bedford generall of the horse, against those which came from Shirbourn unto Babell-hill neer unto Yerrell, upon Wednesday the 7th of this instant September, 1642. Which was extracted out of a letter sent to the Parliament from Dorchester the 10th of September: 1642. Signed by Bedford, Denzill Hollis, Iohn Northcot, George Chudley, Walter Erle, Tho: Wroth, Alex: Popham, Charls Essex, William Strode, Iohn Pine, Cle: Walker, Hugh Rogers, Ro: Hartin. Together with the copy of Captain Aiscoghs letter to a friend of his in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92358</idno>
+            <idno type="STC">Wing R811</idno>
+            <idno type="STC">Thomason E116_42</idno>
+            <idno type="STC">ESTC R9320</idno>
+            <idno type="EEBO-CITATION">99873523</idno>
+            <idno type="PROQUEST">99873523</idno>
+            <idno type="VID">156059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156059)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the actions of the Parliaments forces, under the command of the Earl of Bedford generall of the horse, against those which came from Shirbourn unto Babell-hill neer unto Yerrell, upon Wednesday the 7th of this instant September, 1642. Which was extracted out of a letter sent to the Parliament from Dorchester the 10th of September: 1642. Signed by Bedford, Denzill Hollis, Iohn Northcot, George Chudley, Walter Erle, Tho: Wroth, Alex: Popham, Charls Essex, William Strode, Iohn Pine, Cle: Walker, Hugh Rogers, Ro: Hartin. Together with the copy of Captain Aiscoghs letter to a friend of his in London.</title>
+                  <author>Aiscogh, Captain.</author>
+                  <author>Bedford, William Russell, Duke of, 1613-1700.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Husbands and J. Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 13 [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>The words "Bedford, .. Hartin." are enclosed in brackets on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, William Russell, --  Duke of, 1613-1700.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156059:1" rendition="simple:additions"/>
+            <p>A RELATION Of the Actions of the PARLIAMENTS FORCES, Under the command of the Earl of <hi>Bedford</hi> Generall of the Horſe, againſt thoſe which came from <hi>Shirbourn</hi> unto <hi>Babell-hill</hi> neer un<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Yerrell,</hi> upon Wedneſday the 7<hi rend="sup">th</hi> of this inſtant September, 1642.</p>
+            <p>Which was extracted out of a Let<g ref="char:EOLhyphen"/>ter ſent to the Parliament from <hi>Dorcheſter</hi> the 10<hi rend="sup">th</hi> of September: 1642.</p>
+            <p>Signed by <hi>Bedford, Denzill Hollis, Iohn Northcot, George Chudley, Walter Erle, Tho: Wroth, Alex: Pop<g ref="char:EOLhyphen"/>ham, Charls Eſſex, William Strode, Iohn Pine, Cle: Walker, Hugh Rogers, Ro: Hartin.</hi>
+            </p>
+            <p>Together with The Copy of Captain AISCOGHS Letter to a Friend of his in LONDON.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Husbands</hi> and <hi>J. Franck.</hi> Sept. 13.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156059:2"/>
+            <pb n="3" facs="tcp:156059:2"/>
+            <head>A Relation of the Actions of the PARLIAMENTS Forces, under the command of the Earl of <hi>Bedford,</hi> Generall of the horſe, againſt thoſe which came from <hi>Shir<g ref="char:EOLhyphen"/>bourn</hi> unto <hi>Babell-hill,</hi> neer unto <hi>Yer<g ref="char:EOLhyphen"/>rell,</hi> upon Wedneſday the 7<hi rend="sup">th</hi> of this inſtant September, 1642.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon Tueſday the ſixt of September, the Parliaments forces did riſe from before <hi>Shirbourn,</hi> and went that night unto <hi>Yerrell</hi> a Town being four miles diſtant from <hi>Shirbourn;</hi> where we lay on Wedneſday to refreſh our ſelves, upon which day it pleaſed God to give us a great taſte of his goodneſſe, to the great ſhame and loſſe of the Enemie: About two of the clock in the af<g ref="char:EOLhyphen"/>ternoon there appeared a great body of their horſe and foot upon a great hill within a little mile of the Town called <hi>Babell-hill,</hi> and ſo was it truly to them a Babel of Confuſion. Upon which we preſently put our ſelves in Array aſwell as we could, to make good all the out-wayes, and guard the Magazine, which to do we found but very few men, and more Pikemen then Muſquetiers, for the Muſquetiers found themſelves to be moſt imployed upon all oc<g ref="char:EOLhyphen"/>caſions, and therfore they principally ſhifted away, and we ſent out to that ſide where the Enemie ap<g ref="char:EOLhyphen"/>peared,
+<pb n="4" facs="tcp:156059:3"/>three Troops of horſe, and ſome Muſque<g ref="char:EOLhyphen"/>tiers, they ſtanding ſtill at the top of the hill, bra<g ref="char:EOLhyphen"/>ving of us, and calling us <hi>Rogues</hi> and <hi>Round heads;</hi> our men went up the hill to charge them, Captain <hi>Arſ<g ref="char:EOLhyphen"/>cogh</hi> one way, Captain <hi>Tomſon</hi> another way, a little after him, and Captain <hi>Balfour</hi> a third, and our Muſ<g ref="char:EOLhyphen"/>quetiers after as faſt as we could; <hi>Aiſcogh</hi> came up to them firſt, &amp; charged one of the Troops through and through, and charged the ſecond, but then was glad to wheel about; by that time <hi>Tomſon</hi> came in to him, and upon the ſight of him all the Enemies horſe began to ſhog a little, and our two Troops coming to charge, they turned and ran away, diſ<g ref="char:EOLhyphen"/>banded and routed, and ours followed upon the execution, and killed many of them, they think about eighteen or twenty, ſome very well habited, who ſeemed to be perſons of qualitie, and their foot who had played upon our horſe and foot co<g ref="char:EOLhyphen"/>ming up the hill, were left to our mercy, our foot and norſe killing them, and they running away like dogs; He that commanded them was one <hi>Bamfield</hi> a Serjeant Major, who is taken priſoner, and with him about a ſcore of his common Souldiers, the reſt that commanded the foot are believed to be ſlain; amongſt them one <hi>Haſſey</hi> a Captain, for his Commiſſion was found in his pocket, himſelf clad in pluſh, <hi>Balfoures</hi> Troop was forced to fetch a great compaſſe, for it is a very high hill, and ill way who could not come in ſoon enough; if the night had not come on and a very darke on, we had made a great execution amongſt them, for their whole
+<pb n="5" facs="tcp:156059:3"/>ſtrength of horſe was there, five or ſix Troops and moſt of their foot, Sir <hi>Ralph Hopton</hi> was there with his Troop, Captain <hi>Digby,</hi> and Sir <hi>Francis Hawley</hi> with theirs, and the Lord <hi>Paulet,</hi> Sir <hi>Iohn Paulet,</hi> Sir <hi>Iohn Stowell,</hi> Sir <hi>Thomas Lunsford,</hi> Colonell <hi>Asburne<g ref="char:EOLhyphen"/>ham,</hi> Sir <hi>Iohn Barteley,</hi> Colonell <hi>Lawdy,</hi> and Lieute<g ref="char:EOLhyphen"/>nant Colonell <hi>Lunsford</hi> were there: we do verily believe that ſome of them are come ſhort of home, for they came in the night before the Moon roſe with lanthorns and candles, and fetcht away the bodies of them of qualitie, we only found the next morning twenty or thirty of our men; there were but five loſt in all, and a very few, not above three hurt, all but one of the ſlain, are of Captain <hi>Aiſcoghs</hi> Troop, who hath ſhewed himſelf a very valiant yong-man; We deſire to know what muſt be done with the priſoners, whom, till we receive order, we will take care ſhall be ſafely kept: Thus it hath pleaſed the good God of heaven, who is the great God of Battels to bleſſe us, whoſe name we cannot ſufficiently magnifie for his goodneſſe to us, bring<g ref="char:EOLhyphen"/>ing on the Enemy in their great jollity and ſtrength, to be ſo ſhamefully defeated by a handfull of us, and thoſe who were tired out with extraordinary ſufferance of watching and cold; Bleſſed be his name for it.</p>
+            <argument>
+               <pb n="6" facs="tcp:156059:4"/>
+               <p>This was extracted out of a Let<g ref="char:EOLhyphen"/>ter ſent to the Parliament from <hi>Dorcheſter,</hi> the 10<hi rend="sup">th</hi> of <hi>September,</hi> Signed by <hi>Bedford, Denzill Hollis, John Northcot, George Chudley, Walter Erle, Thomas Wroth, Alexan<g ref="char:EOLhyphen"/>der Popham, Charls Eſſex, VVilliam Strode, Jo: Pine, Cle: VValker, Hugh Rogers, Ro: Hartin.</hi>
+               </p>
+            </argument>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:156059:4"/>
+            <head>A Copy of Captain Aiſcoghs LETTER TO A Friend of his in London.</head>
+            <p>THis day after our coming from <hi>Sheiburne,</hi> the Enemie did us the favour to come to <hi>Babell-hill</hi> which is a little off <hi>Yerrell,</hi> the Town where we lay, ſo newes was brought that the Enemie was come, and orders given that we ſhould ſound to horſe, and then directions came to us from my Lord who ſhould ſtay to guard the Town, and the reſt ſhould go, <hi>Pretty</hi> and <hi>Ducet</hi> was to ſtay, and the reſt was to go; And truly Sir when we came to ſee them, every body did judge them to be at leaſt a thouſand, beſides they were upon the top of a great hill, which was a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xtream diſadvantage to us; yet praiſed be God we got very well off, and indeed bet<g ref="char:EOLhyphen"/>ter then was expected by any body that did ſee what danger we were in, the way that I went was ſo narrow, that we did march but two a breſt, and when we came to the topp almoſt, we had an Ambuſcado of ſix Muſquetiers of each ſide the way
+<pb n="8" facs="tcp:156059:5"/>to entertain us, but they miſt us all, and at the top of the hill there was young <hi>Stowell</hi> my fellow traveller with his Troop; ſo after we had changed two or three braſe of Bullets together with a little ſlaſhing, they began to retire; No man can juſt<g ref="char:EOLhyphen"/>ly tell how many we ſlew of theirs becauſe we diſperſ'd them ſo; but we were forced to retreat into the Lane, becauſe there was no body to ſecond me, and then came two Troops of freſh horſe on us: I loſt five of my own men, it was Gods great bleſſing we were not all cut off, but I truſt in him that he hath preſerved us for to do him more ſervice: My men were very reſolute and valiant, I thank God, as ſoon as we had charged we went up again, and they were all run away. This is all that I have to trouble you with at this preſent.</p>
+            <closer>
+               <dateline>
+                  <hi>Dorcheſter</hi> 
+                  <date>the 9. <hi>of</hi> September.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
